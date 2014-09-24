@@ -225,7 +225,8 @@ th {
   img {
     max-width: 100% !important;
   }
-  p,
+  
+  p ,
   h2,
   h3 {
     orphans: 3;
@@ -6200,4 +6201,16 @@ button.close {
     display: none !important;
   }
 }
+
+/* Start John's CSS!!! */
+
+div .col-lg-12  {border: 2px solid;
+    border-radius: 20px;
+	padding: 15px 15px 15px 15px;
+	font-size:16px	}
+
+div .col-lg-12 img { margin: 10px 0px 10px 0px; } 
+
+
+	
 /*# sourceMappingURL=bootstrap.css.map */
